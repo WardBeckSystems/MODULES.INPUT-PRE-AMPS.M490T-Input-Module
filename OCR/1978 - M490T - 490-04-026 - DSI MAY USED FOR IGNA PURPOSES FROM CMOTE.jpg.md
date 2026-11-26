@@ -20,7 +20,7 @@ Wiki page: [M490T](../../../../PAGES/M490T.md)
 - **Closed boxes:** 22
 - **Dots (junctions):** 6
 
-Every curve, box, word and wire group: [1978 - M490T - 490-04-026 - DSI MAY USED FOR IGNA PURPOSES FROM CMOTE (traced).json](../MECHANICAL/1978%20-%20M490T%20-%20490-04-026%20-%20DSI%20MAY%20USED%20FOR%20IGNA%20PURPOSES%20FROM%20CMOTE%20(traced).json) (the CAD file: `1978 - M490T - 490-04-026 - DSI MAY USED FOR IGNA PURPOSES FROM CMOTE (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490T - 490-04-026 - DSI MAY USED FOR IGNA PURPOSES FROM CMOTE (traced).json](../MECHANICAL/1978%20-%20M490T%20-%20490-04-026%20-%20DSI%20MAY%20USED%20FOR%20IGNA%20PURPOSES%20FROM%20CMOTE%20%28traced%29.json) (the CAD file: `1978 - M490T - 490-04-026 - DSI MAY USED FOR IGNA PURPOSES FROM CMOTE (traced).dxf`).
 
 ## Full text
 
