@@ -1,5 +1,5 @@
 # 1978 - M490T - 490-04-026 - DSI MAY USED FOR IGNA PURPOSES FROM CMOTE.jpg
-Wiki page: [M490T](../../../../PAGES/M490T.md)
+Wiki page: [M490T](../)
 
 
 - **Year:** 1978 (module estimate (family))
