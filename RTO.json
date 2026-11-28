@@ -7,503 +7,6 @@
  "verified": null,
  "derived": true,
  "variant_of": "M490D",
- "pins": [
-  {
-   "pin": "1",
-   "signal": "PGM 1 OUT, LEFT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "1",
-   "signal": "LEFT PGRM 1",
-   "kind": "audio",
-   "pair": "A3",
-   "polarity": "+",
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490D/M490D.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "1",
-   "signal": "MIC IN A",
-   "kind": "in",
-   "pair": "A1",
-   "polarity": "+",
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490D/M490D.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "2",
-   "signal": "PGM 1 OUT, LEFT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "2",
-   "signal": "LEFT PGRM 1",
-   "kind": "audio",
-   "pair": "A3",
-   "polarity": "-",
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490D/M490D.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "3",
-   "signal": "PGM 1 OUT, RIGHT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "3",
-   "signal": "RIGHT PGRM 1",
-   "kind": "audio",
-   "pair": "A4",
-   "polarity": "+",
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490D/M490D.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "3",
-   "signal": "MIC IN B",
-   "kind": "in",
-   "pair": "A2",
-   "polarity": "+",
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490D/M490D.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "4",
-   "signal": "PGM 1 OUT, RIGHT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "4",
-   "signal": "RIGHT PGRM 1",
-   "kind": "audio",
-   "pair": "A4",
-   "polarity": "-",
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490D/M490D.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "5",
-   "signal": "PGM 2 OUT, LEFT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "6",
-   "signal": "PGM 2 OUT, LEFT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "6",
-   "signal": "INSERT SEND",
-   "kind": "out",
-   "pair": "B1",
-   "polarity": "+",
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490D/M490D.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "7",
-   "signal": "PGM 2 OUT, RIGHT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "7",
-   "signal": "INSERT RETURN",
-   "kind": "in",
-   "pair": "B2",
-   "polarity": "+",
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490D/M490D.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "8",
-   "signal": "PGM 2 OUT, RIGHT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "9",
-   "signal": "SHIELO",
-   "kind": "other",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "10",
-   "signal": "NC",
-   "kind": "nc",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "11",
-   "signal": "AUX OUT, LEFT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "12",
-   "signal": "AUX OUT, LEFT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "12",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/SCHEMATICS/1978 - M490D - schem-490-02-005.pdf",
-   "page": 1
-  },
-  {
-   "pin": "13",
-   "signal": "AUX OUT, RIGHT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "14",
-   "signal": "AUX OUT, RIGHT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "15",
-   "signal": "CUE OUT, LEFT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "15",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/SCHEMATICS/1978 - M490D - schem-490-02-005.pdf",
-   "page": 1
-  },
-  {
-   "pin": "16",
-   "signal": "CUE OUT, LEFT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "17",
-   "signal": "CUE OUT, RIGHT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "17",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/SCHEMATICS/1978 - M490D - schem-490-02-005.pdf",
-   "page": 1
-  },
-  {
-   "pin": "18",
-   "signal": "CUE OUT, RIGHT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "19",
-   "signal": "NC",
-   "kind": "nc",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "19",
-   "signal": "-25 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490D/M490D.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "20",
-   "signal": "NC",
-   "kind": "nc",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "20",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490D/M490D.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "21",
-   "signal": "NC",
-   "kind": "nc",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
-   "page": 1
-  },
-  {
-   "pin": "21",
-   "signal": "+25 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490D/M490D.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "22",
-   "signal": "CHASSIS",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005.pdf",
-   "page": 1
-  },
-  {
-   "pin": "25",
-   "signal": "V COM",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005.pdf",
-   "page": 1
-  },
-  {
-   "pin": "A",
-   "signal": "MIC IN A",
-   "kind": "in",
-   "pair": "A1",
-   "polarity": "-",
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490D/M490D.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "C",
-   "signal": "MIC IN B",
-   "kind": "in",
-   "pair": "A2",
-   "polarity": "-",
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490D/M490D.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "F",
-   "signal": "INSERT SEND",
-   "kind": "out",
-   "pair": "B1",
-   "polarity": "-",
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490D/M490D.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "H",
-   "signal": "INSERT RETURN",
-   "kind": "in",
-   "pair": "B2",
-   "polarity": "-",
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490D/M490D.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "L",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/SCHEMATICS/1978 - M490D - schem-490-02-005.pdf",
-   "page": 1
-  },
-  {
-   "pin": "N",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/SCHEMATICS/1978 - M490D - schem-490-02-005.pdf",
-   "page": 1
-  },
-  {
-   "pin": "R",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/SCHEMATICS/1978 - M490D - schem-490-02-005.pdf",
-   "page": 1
-  },
-  {
-   "pin": "U",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490D/SCHEMATICS/1978 - M490D - schem-490-02-005.pdf",
-   "page": 1
-  }
- ],
  "straps": [],
  "power": [],
  "sources": [
@@ -511,5 +14,130 @@
   "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005 (2).pdf",
   "Modules/INPUT-PRE-AMPS/M490D/PINOUTS/1978 - M490D - pinout-490-04-005.pdf",
   "Modules/INPUT-PRE-AMPS/M490D/SCHEMATICS/1978 - M490D - schem-490-02-005.pdf"
- ]
+ ],
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "1",
+   "signal": "Left PGRM 1",
+   "kind": "out",
+   "port": "A3",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "2",
+   "signal": "Left PGRM 1",
+   "kind": "out",
+   "port": "A3",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "signal": "Right PGRM 1",
+   "kind": "out",
+   "port": "A4",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "signal": "Right PGRM 1",
+   "kind": "out",
+   "port": "A4",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "1",
+   "signal": "Mic in A",
+   "kind": "in",
+   "port": "A1",
+   "polarity": "+"
+  },
+  {
+   "connector": "P2",
+   "pin": "3",
+   "signal": "Mic in B",
+   "kind": "in",
+   "port": "A2",
+   "polarity": "+"
+  },
+  {
+   "connector": "P2",
+   "pin": "6",
+   "signal": "Insert Send",
+   "kind": "insert_send",
+   "port": "B1",
+   "polarity": "+"
+  },
+  {
+   "connector": "P2",
+   "pin": "7",
+   "signal": "Insert Return",
+   "kind": "insert_return",
+   "port": "B2",
+   "polarity": "+"
+  },
+  {
+   "connector": "P2",
+   "pin": "19",
+   "signal": "VEE-AUDIO -25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "21",
+   "signal": "VCC-AUDIO +25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "A",
+   "signal": "Mic in A",
+   "kind": "in",
+   "port": "A1",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "C",
+   "signal": "Mic in B",
+   "kind": "in",
+   "port": "A2",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "F",
+   "signal": "Insert Send",
+   "kind": "insert_send",
+   "port": "B1",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "H",
+   "signal": "Insert Return",
+   "kind": "insert_return",
+   "port": "B2",
+   "polarity": "-"
+  }
+ ],
+ "built_from": {
+  "synthesized": "tools/symbol_synth.py in WBSps.ca from Engineering/RTO-144/M490D/M490D.rto144.json"
+ }
 }
